@@ -18,7 +18,7 @@ pip install opencv-python mediapipe pyautogui
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <your-git-repo-link>
+   https://github.com/lord230/Hand-Gesture.git
    ```
 2. Navigate to the project directory:
    ```sh
